@@ -1,1 +1,4 @@
+
 A cnn está demitindo muito
+
+Cnn não demitiu ninguém
